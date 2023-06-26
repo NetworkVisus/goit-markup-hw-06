@@ -168,7 +168,6 @@ img {
 }
 
 .modal-btn.mobile-menu-close-btn {
-  display: block;
   position: static;
   margin: 24px 24px 32px auto;
   background-color: var(--alternative-white-color);
